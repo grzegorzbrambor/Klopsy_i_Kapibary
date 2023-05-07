@@ -5,5 +5,4 @@
 3. Prosciutto - Sos pomidorowy, mozzarella, szynka - 30 zł
 4. Diavola - Sos pomidorowy, mozzarella, pikantna salami - 35 zł
 5. Quattro formaggi - Sos pomidorowy, mozzarella, ser gorgonzola, ser pleśniowy, ser parmezan - 40 zł
-6. Vegetariana - Sos pomidorowy, mozzarella, papryka, cebula, bakłażan, pieczarki, oliwki - 38 zł
-7. Calzone - Sos pomidorowy, mozzarella, szynka, pieczarki, cebula, jajko - 42 zł
+6. Calzone - Sos pomidorowy, mozzarella, szynka, pieczarki, cebula, jajko - 42 zł
