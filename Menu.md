@@ -1,6 +1,6 @@
 #Menu
 
-<img src = "repo_img/ana-enriquez-UCudAvr1tNo-unsplash.jpg" width = 300>
+<img src = "repo_img/ana-enriquez-UCudAvr1tNo-unsplash.jpg" width = 200>
 
 ##Pizza klasyczna
 |Lp.| Nazwa pizzy:                                                                                       | 30cm| 50cm| 60cm|
@@ -16,7 +16,7 @@
 |9. | Salami - Sos pomidorowy, mozzarella, salami, papryka, cebula                                       | 36zł| 39zł| 42zł|
 |10.| Vegetariana - Sos pomidorowy, mozzarella, papryka, cebula, bakłażan, pieczarki, oliwki             | 38zł| 41zł| 44zł|
 
-<img src = "repo_img/foad-roshan-Y6OgisiGBjM-unsplash.jpg" width = 300>
+<img src = "repo_img/foad-roshan-Y6OgisiGBjM-unsplash.jpg" width = 200>
 
 ##Pizza faszerowana
 
@@ -27,3 +27,13 @@
 |3. | Faszerowana z warzywami - Sos pomidorowy, mozzarella, pieczarki, cebula, papryka, bakłażan, oliwki, **zamykana w pieróg** | 30zł| 33zł| 36zł|
 |4. | Faszerowana z kiełbasą chorizo - Sos pomidorowy, mozzarella, chorizo, cebula, **zamykana w pieróg**| 35zł| 38zł| 41zł|
 
+<img src = "repo_img/hemant-latawa-IfQlwNqJqV8-unsplash.jpg" width = 300>
+
+##Makarony
+
+|Lp.| Nazwa dania:                                                                                       | 1 porcja| 1,5 porcji| podwójna|
+|---|----------------------------------------------------------------------------------------------------|---------|-----------|---------|
+|1. | Spaghetti Bolognese - Makaron spaghetti z sosem mięsnym i parmezanem                               | 29zł    |       32zł|     35zł|
+|1. | Penne Arrabiata - Makaron penne z ostrym sosem pomidorowym i bazylią                               | 32zł    |       35zł|     38zł|
+|1. | Lasagne - Warstwy makaronu z mięsem, sosem beszamelowym i pomidorowym, posypane parmezanem         | 35zł    |       38zł|     41zł|
+|1. | Tagliatelle z kurczakiem i szpinakiem - Makaron tagliatelle z kurczakiem, szpinakiem i sosem śmietanowym | 38zł    |       41zł|     44zł|
