@@ -3,11 +3,27 @@
 <img src = "repo_img/ana-enriquez-UCudAvr1tNo-unsplash.jpg" width = 300>
 
 ##Pizza klasyczna
-|Lp.| Nazwa pizzy:                                                                                       | 30cm|50cm|60cm|
-|---|----------------------------------------------------------------------------------------------------|-----|----|----|
-|1. | Margherita - Sos pomidorowy, mozzarella                                                            | 25zł|    |    |
-|2. | Capricciosa - Sos pomidorowy, mozzarella, pieczarki, szynka                                        | 32zł|    |    | 
-|3. | Prosciutto - Sos pomidorowy, mozzarella, szynka                                                    | 30zł|    |    |
-|4. | Diavola - Sos pomidorowy, mozzarella, pikantna salami                                              | 35zł|    |    |
-|5. | Quattro formaggi - Sos pomidorowy, mozzarella, ser gorgonzola, ser pleśniowy, ser parmezan         | 40zł|    |    |
-|6. | Calzone - Sos pomidorowy, mozzarella, szynka, pieczarki, cebula, jajko                             | 42zł|    |    |
+|Lp.| Nazwa pizzy:                                                                                       | 30cm| 50cm| 60cm|
+|---|----------------------------------------------------------------------------------------------------|-----|-----|-----|
+|1. | Margherita - Sos pomidorowy, mozzarella                                                            | 25zł| 28zł| 31zł|
+|2. | Capricciosa - Sos pomidorowy, mozzarella, pieczarki, szynka                                        | 32zł| 35zł| 38zł| 
+|3. | Prosciutto - Sos pomidorowy, mozzarella, szynka                                                    | 30zł| 33zł| 36zł|
+|4. | Diavola - Sos pomidorowy, mozzarella, pikantna salami                                              | 35zł| 38zł| 41zł|
+|5. | Quattro formaggi - Sos pomidorowy, mozzarella, ser gorgonzola, ser pleśniowy, ser parmezan         | 40zł| 43zł| 46zł|
+|6. | Calzone - Sos pomidorowy, mozzarella, szynka, pieczarki, cebula, jajko                             | 42zł| 45zł| 48zł|
+|7. | Hawajska - Sos pomidorowy, mozzarella, szynka, ananas                                              | 33zł| 36zł| 39zł|
+|8. | Frutti di Mare - Sos pomidorowy, mozzarella, owoce morza                                           | 45zł| 48zł| 51zł|
+|9. | Salami - Sos pomidorowy, mozzarella, salami, papryka, cebula                                       | 36zł| 39zł| 42zł|
+|10.| Vegetariana - Sos pomidorowy, mozzarella, papryka, cebula, bakłażan, pieczarki, oliwki             | 38zł| 41zł| 44zł|
+
+<img src = "repo_img/foad-roshan-Y6OgisiGBjM-unsplash.jpg" width = 300>
+
+##Pizza faszerowana
+
+|Lp.| Nazwa pizzy:                                                                                       | 30cm| 50cm| 60cm|
+|---|----------------------------------------------------------------------------------------------------|-----|-----|-----|
+|1. | Calzone - Sos pomidorowy, mozzarella, szynka, pieczarki, cebula, jajko, **zamykana w półksiężyc**  | 42zł| 45zł| 48zł|
+|2. | Faszerowana z szynką i serem - Sos pomidorowy, mozzarella, szynka, ser, **zamykana w pieróg**      | 38zł| 41zł| 44zł| 
+|3. | Faszerowana z warzywami - Sos pomidorowy, mozzarella, pieczarki, cebula, papryka, bakłażan, oliwki, **zamykana w pieróg** | 30zł| 33zł| 36zł|
+|4. | Faszerowana z kiełbasą chorizo - Sos pomidorowy, mozzarella, chorizo, cebula, **zamykana w pieróg**| 35zł| 38zł| 41zł|
+
