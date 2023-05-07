@@ -27,7 +27,7 @@
 |3. | Faszerowana z warzywami - Sos pomidorowy, mozzarella, pieczarki, cebula, papryka, bakłażan, oliwki, **zamykana w pieróg** | 30zł| 33zł| 36zł|
 |4. | Faszerowana z kiełbasą chorizo - Sos pomidorowy, mozzarella, chorizo, cebula, **zamykana w pieróg**| 35zł| 38zł| 41zł|
 
-<img src = "repo_img/hemant-latawa-IfQlwNqJqV8-unsplash.jpg" width = 300>
+<img src = "repo_img/clark-douglas-17ZU9BPy_Q4-unsplash.jpg" width = 300>
 
 ##Makarony
 
@@ -37,3 +37,26 @@
 |1. | Penne Arrabiata - Makaron penne z ostrym sosem pomidorowym i bazylią                               | 32zł    |       35zł|     38zł|
 |1. | Lasagne - Warstwy makaronu z mięsem, sosem beszamelowym i pomidorowym, posypane parmezanem         | 35zł    |       38zł|     41zł|
 |1. | Tagliatelle z kurczakiem i szpinakiem - Makaron tagliatelle z kurczakiem, szpinakiem i sosem śmietanowym | 38zł    |       41zł|     44zł|
+
+<img src = "repo_img/abbie-tanner-Mzi4fdo93xQ-unsplash.jpg" width = 200>
+
+##Sosy
+
+1. Sos majonezowy - 5 zł
+2. Sos czosnkowy - 5 zł
+3. Sos barbecue - 5 zł
+4. Sos czterech serów - 8 zł
+
+<img src = "repo_img/punto-fotografico-pxubTOFtg_Y-unsplash.jpg" width = 200>
+
+##Napoje
+
+|Lp.| Nazwa:                                    | 330ml   | 500ml     |
+|---|-------------------------------------------|---------|-----------|
+|1. | Coca - Cola                               |  7zł    |        9zł|
+|2. | Sprite                                    |  7zł    |        9zł|
+|3. | Fanta                                     |  7zł    |        9zł|
+|4. | Woda niegazowana                          |  6zł    |        8zł|
+|5. | Woda gazowana                             |  6zł    |        8zł|
+|6. | Piwo jasne                                | 12zł    |       16zł|
+|6. | Piwo ciemne                               | 12zł    |       16zł|
