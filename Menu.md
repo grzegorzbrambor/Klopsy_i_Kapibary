@@ -14,7 +14,6 @@
 |7. | Hawajska - Sos pomidorowy, mozzarella, szynka, ananas                                              | 33zł| 36zł| 39zł|
 |8. | Frutti di Mare - Sos pomidorowy, mozzarella, owoce morza                                           | 45zł| 48zł| 51zł|
 |9. | Salami - Sos pomidorowy, mozzarella, salami, papryka, cebula                                       | 36zł| 39zł| 42zł|
-|10.| Vegetariana - Sos pomidorowy, mozzarella, papryka, cebula, bakłażan, pieczarki, oliwki             | 38zł| 41zł| 44zł|
 
 <img src = "repo_img/foad-roshan-Y6OgisiGBjM-unsplash.jpg" width = 200>
 
