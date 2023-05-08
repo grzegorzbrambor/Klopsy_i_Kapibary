@@ -14,7 +14,18 @@
 |7. | Hawajska - Sos pomidorowy, mozzarella, szynka, ananas                                              | 33zł| 36zł| 39zł|
 |8. | Frutti di Mare - Sos pomidorowy, mozzarella, owoce morza                                           | 45zł| 48zł| 51zł|
 |9. | Salami - Sos pomidorowy, mozzarella, salami, papryka, cebula                                       | 36zł| 39zł| 42zł|
-|10.| Vegetariana - Sos pomidorowy, mozzarella, papryka, cebula, bakłażan, pieczarki, oliwki             | 38zł| 41zł| 44zł|
+
+##Pizza wegetariańska
+
+<img src = "repo_img/nathan-dumlao-bRdRUUtbxO0-unsplash.jpg" width=200>
+
+|Lp.| Nazwa pizzy:                                                                                       | 30cm| 50cm| 60cm|
+|---|----------------------------------------------------------------------------------------------------|-----|-----|-----|
+|1. | Vegetariana - Sos pomidorowy, mozzarella, papryka, cebula, bakłażan, pieczarki, oliwki             | 38zł| 41zł| 44zł|
+|2. | Marinara - Sos pomidorowy, czosnek, oregano                                                        | 25zł| 28zł| 31zł| 
+|3. | Caprese - Sos pomidorowy, mozzarella, pomidory, bazyliowy pesto                                    | 35zł| 38zł| 41zł|
+|4. | Quattro stagioni - Sos pomidorowy, mozzarella, pieczarki, karczochy, szpinak, oliwki               | 42zł| 45zł| 48zł|
+|5. | Ortolana - Sos pomidorowy, mozzarella, cukinia, bakłażan, papryka, cebula, szpinak                 | 40zł| 43zł| 46zł|
 
 <img src = "repo_img/foad-roshan-Y6OgisiGBjM-unsplash.jpg" width = 200>
 
@@ -34,9 +45,21 @@
 |Lp.| Nazwa dania:                                                                                       | 1 porcja| 1,5 porcji| podwójna|
 |---|----------------------------------------------------------------------------------------------------|---------|-----------|---------|
 |1. | Spaghetti Bolognese - Makaron spaghetti z sosem mięsnym i parmezanem                               | 29zł    |       32zł|     35zł|
-|1. | Penne Arrabiata - Makaron penne z ostrym sosem pomidorowym i bazylią                               | 32zł    |       35zł|     38zł|
-|1. | Lasagne - Warstwy makaronu z mięsem, sosem beszamelowym i pomidorowym, posypane parmezanem         | 35zł    |       38zł|     41zł|
-|1. | Tagliatelle z kurczakiem i szpinakiem - Makaron tagliatelle z kurczakiem, szpinakiem i sosem śmietanowym | 38zł    |       41zł|     44zł|
+|2. | Penne Arrabiata - Makaron penne z ostrym sosem pomidorowym i bazylią                               | 32zł    |       35zł|     38zł|
+|3. | Lasagne - Warstwy makaronu z mięsem, sosem beszamelowym i pomidorowym, posypane parmezanem         | 35zł    |       38zł|     41zł|
+|4. | Tagliatelle z kurczakiem i szpinakiem - Makaron tagliatelle z kurczakiem, szpinakiem i sosem śmietanowym | 38zł    |       41zł|     44zł|
+
+##Sałatki
+
+<img src = "repo_img/tania-melnyczuk-xeTv9N2FjXA-unsplash.jpg" width= 200>
+
+|Lp.| Nazwa pizzy:                                                                                       | 30cm|
+|---|----------------------------------------------------------------------------------------------------|-----|
+|1. | Caprese - Pomidory, mozzarella, rukola, bazyliowy pesto                                            | 20zł|
+|2. | Grecka - Sałata mix, pomidory, ogórki, cebula, feta, oliwki, dressing cytrynowy                    | 22zł|
+|3. | Ceasar - Sałata mix, kurczak, grzanki, parmezan, dressing cezar                                    | 25zł|
+|4. | Z tuńczykiem - Sałata mix, tuńczyk, cebula, kukurydza, jajko, sos winegret                         | 28zł|
+|5. | Meksykańska - Sałata mix, fasola, kukurydza, cebula, papryka, chilli, dressing jogurtowo-paprykowy | 31zł|
 
 <img src = "repo_img/abbie-tanner-Mzi4fdo93xQ-unsplash.jpg" width = 200>
 
