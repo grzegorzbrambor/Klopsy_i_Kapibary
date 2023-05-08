@@ -15,6 +15,7 @@
 |8. | Frutti di Mare - Sos pomidorowy, mozzarella, owoce morza                                           | 45zł| 48zł| 51zł|
 |9. | Salami - Sos pomidorowy, mozzarella, salami, papryka, cebula                                       | 36zł| 39zł| 42zł|
 
+
 ##Pizza wegetariańska
 
 <img src = "repo_img/nathan-dumlao-bRdRUUtbxO0-unsplash.jpg" width=200>
@@ -26,6 +27,7 @@
 |3. | Caprese - Sos pomidorowy, mozzarella, pomidory, bazyliowy pesto                                    | 35zł| 38zł| 41zł|
 |4. | Quattro stagioni - Sos pomidorowy, mozzarella, pieczarki, karczochy, szpinak, oliwki               | 42zł| 45zł| 48zł|
 |5. | Ortolana - Sos pomidorowy, mozzarella, cukinia, bakłażan, papryka, cebula, szpinak                 | 40zł| 43zł| 46zł|
+
 
 <img src = "repo_img/foad-roshan-Y6OgisiGBjM-unsplash.jpg" width = 200>
 
