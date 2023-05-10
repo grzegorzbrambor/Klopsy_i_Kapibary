@@ -71,6 +71,7 @@
 2. Sos czosnkowy - 5 zł
 3. Sos barbecue - 5 zł
 4. Sos czterech serów - 8 zł
+5. Sos barbecue - 7 zł
 
 <img src = "repo_img/punto-fotografico-pxubTOFtg_Y-unsplash.jpg" width = 200>
 
