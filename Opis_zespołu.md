@@ -1,7 +1,7 @@
 #Załoga
 
 
-Nasz personel pizzerii to zgrany zespół pasjonatów kulinarnych, którzy kochają tworzyć smakowe arcydzieła. Z uśmiechem na twarzy i pełnym zaangażowaniem obsługujemy naszych gości, zapewniając im niezapomniane doświadczenie kulinarne. Jesteśmy gotowi spełnić Twoje kulinarne marzenia i sprawić, abyś poczuł się jak w sercu Włoch. Przyjdź i pozwól nam uraczyć Cię autentycznymi smakami naszych wyjątkowych pizz!
+Nasz personel pizzerii to zgrany zespół pasjonatów kulinarnych, którzy kochają tworzyć smakowite arcydzieła. Z uśmiechem na twarzy i pełnym zaangażowaniem obsługujemy naszych gości, zapewniając im niezapomniane doświadczenie kulinarne. Jesteśmy gotowi spełnić Twoje kulinarne marzenia i sprawić, abyś poczuł się jak w sercu Włoch. Przyjdź i pozwól nam uraczyć Cię autentycznymi smakami naszych wyjątkowych pizz!
 
 
 ##Szef kuchni
