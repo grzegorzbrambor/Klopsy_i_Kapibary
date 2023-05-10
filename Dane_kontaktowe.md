@@ -7,7 +7,7 @@
 |3. | Luca Moretti              |luca.moretti@rukolaikapibary.com|+48 555 123 456|
 |4. | Anna Kowalska             |anna.kowalska@rukolaikapibary.com|+48 555 987 654|
 |5. | Alessandro Romano         |alessandro.romano@rukolaikapibary.com|+48 777 987 654|
-|6. |                                                        |-|-|
+|6. | Jakub Dąbrowski           |jakub.dabrowski@rukolaikapibary.com|+48 555 111 222|
 |7. |                                                        |||
 |8. |                                                        |||
 |9. |                                                        |||
