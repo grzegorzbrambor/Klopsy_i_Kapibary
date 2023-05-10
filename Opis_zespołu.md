@@ -1,3 +1,9 @@
 #Załoga
 
-Treść
+##Szef kuchni
+
+##Barmani
+
+##Dostawy Take-Away
+
+##Zespół zarządzający
