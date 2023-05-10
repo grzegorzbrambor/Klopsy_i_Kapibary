@@ -4,7 +4,7 @@
 |---|---------------------------|-------------------------------|---------------|
 |1. | Marco Rossi               |marco.rossi@rukolaikapibary.com|+48 123 456 789|
 |2. | Sofia Bianchi             |sofia.bianchi@rukolaikapibary.com|+48 987 654 321| 
-|3. |                                                        |-|-|
+|3. | Luca Moretti              |luca.moretti@rukolaikapibary.com|+48 555 123 456|
 |4. |                                                        |-|-|
 |5. |                                                        |-|-|
 |6. |                                                        |-|-|
