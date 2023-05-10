@@ -1,6 +1,6 @@
 #Załoga
 
-Nasza ekipa to grupa miłośników cieńkiego ciasta 
+Nasza ekipa to grupa miłośników cieńkiego ciasta i sytego spaghetti.
 
 ##Szef kuchni
 
