@@ -1,5 +1,7 @@
 #Opis Pizzerii
 
+<img src = "repo_img/hoja-studio-Thw3nleO3cM-unsplash.jpg" width= 300>
+
 Witaj w miejscu, gdzie dwie światy spotykają się w eksplozji smaków i niezwykłych doznań kulinarnej podróży!
 
 Kiedy wkroczysz do naszej pizzerii, od razu poczujesz energię i radość unoszącą się w powietrzu. Zapach świeżo wypiekanego ciasta miesza się z aromatem egzotycznych przypraw, tworząc unikalną harmonię. Nasz zespół pasjonatów kulinarnej sztuki doskonale wie, jak połączyć najlepsze składniki z niezwykłą precyzją, tworząc prawdziwe dzieła sztuki na talerzu.
