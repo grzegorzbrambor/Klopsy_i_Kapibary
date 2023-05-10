@@ -1,6 +1,8 @@
 #Załoga
 
+
 Nasz personel pizzerii to zgrany zespół pasjonatów kulinarnych, którzy kochają tworzyć smakowe arcydzieła. Z uśmiechem na twarzy i pełnym zaangażowaniem obsługujemy naszych gości, zapewniając im niezapomniane doświadczenie kulinarne. Jesteśmy gotowi spełnić Twoje kulinarne marzenia i sprawić, abyś poczuł się jak w sercu Włoch. Przyjdź i pozwól nam uraczyć Cię autentycznymi smakami naszych wyjątkowych pizz!
+
 
 ##Szef kuchni
 
@@ -36,9 +38,11 @@ Alessandro Romano - jest mistrzem sztuki barmańskiej. Jego umiejętność tworz
 
 ##Dostawy Take-Away
 
+
 <img src = "repo_img/Portrety pracowników/courtney-cook-TSZo17r3m0s-unsplash.jpg" width = 200>
 
 Marta Kaźmierska - zawsze dociera na czas z uśmiechem na twarzy. Jej profesjonalizm, skrupulatność i znajomość okolicy pozwalają nam zapewnić szybką i bezproblemową dostawę zamówień, gwarantując naszym klientom świeże i gorące pizze bez wychodzenia z domu.
+
 
 ##Zespół zarządzający
 
