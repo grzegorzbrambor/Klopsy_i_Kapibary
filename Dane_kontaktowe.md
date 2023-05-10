@@ -8,7 +8,7 @@
 |4. | Anna Kowalska             |anna.kowalska@rukolaikapibary.com|+48 555 987 654|
 |5. | Alessandro Romano         |alessandro.romano@rukolaikapibary.com|+48 777 987 654|
 |6. | Jakub Dąbrowski           |jakub.dabrowski@rukolaikapibary.com|+48 555 111 222|
-|7. |                                                        |||
+|7. | Marta Kaźmierska          |marta.kazmierska@rukolaikapibary.com|+48 777 123 456|
 |8. |                                                        |||
 |9. |                                                        |||
 
